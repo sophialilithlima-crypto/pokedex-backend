@@ -6,9 +6,7 @@ Uma API REST desenvolvida em Go (Golang) que simula uma Pokédex, permitindo con
 O projeto foi criado com o objetivo de praticar conceitos de desenvolvimento back-end, organização de código, criação de APIs REST e a trabalhar usando diretamento com os dados.
 
 # Tecnologias utlizadas
-## Go (Golang),
-Gin Framework,
-JSON, HTTP REST
+## Go (Golang), Gin Framework,JSON, HTTP REST
 
 # Estrutura do projeto
 
