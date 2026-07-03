@@ -18,7 +18,7 @@ O projeto foi criado com o objetivo de praticar conceitos de desenvolvimento bac
 
 # Endpoints
 
-<img width="271" height="243" alt="estrutura" src="https://github.com/user-attachments/assets/d3b7570c-e1ac-4cd7-b6b6-b4615c2284bd" />
+<img width="662" height="211" alt="endpoints" src="https://github.com/user-attachments/assets/94af288b-08fb-40a7-8e83-15f43bc72a44" />
 
 # Exemplo
 
